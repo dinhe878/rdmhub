@@ -2,4 +2,4 @@
 
 > More information about your (your team) and your work.
 
-Some text about you here.
+I am learning how to create a static website using GitHub :)
