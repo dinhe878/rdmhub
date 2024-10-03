@@ -17,4 +17,10 @@ about
 folder_topic/article_topic
 folder_topic/fair
 ```
+```{toctree}
+:maxdepth: 2
+:hidden:
+:caption: New ideas
 
+new_idea/new_idea_start_here
+```
