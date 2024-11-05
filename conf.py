@@ -6,8 +6,8 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "RDM notes template"
-copyright = "2024, DTU Biosustain, Informatics Platform, RDM"
+project = "RDMHUB - A Hub for Research Data Management Resources and Training"
+copyright = "2024, DTU Biosustain, Informatics Platform, RDM Team. All rights reserved."
 author = "Ding He"
 
 
